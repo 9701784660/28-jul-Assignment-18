@@ -1,0 +1,7 @@
+D:\exercises\28-7\28-7 Assignment 18\28-7 Assignment 18\bin\Debug\28-7 Assignment 18.exe.config
+D:\exercises\28-7\28-7 Assignment 18\28-7 Assignment 18\bin\Debug\28-7 Assignment 18.exe
+D:\exercises\28-7\28-7 Assignment 18\28-7 Assignment 18\bin\Debug\28-7 Assignment 18.pdb
+D:\exercises\28-7\28-7 Assignment 18\28-7 Assignment 18\obj\Debug\28-7 Assignment 18.csproj.AssemblyReference.cache
+D:\exercises\28-7\28-7 Assignment 18\28-7 Assignment 18\obj\Debug\28-7 Assignment 18.csproj.CoreCompileInputs.cache
+D:\exercises\28-7\28-7 Assignment 18\28-7 Assignment 18\obj\Debug\28-7 Assignment 18.exe
+D:\exercises\28-7\28-7 Assignment 18\28-7 Assignment 18\obj\Debug\28-7 Assignment 18.pdb
